@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6471" started-at="2019-08-21T16:00:47Z" finished-at="2019-08-21T16:00:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6471" started-at="2019-08-21T16:00:47Z" finished-at="2019-08-21T16:00:53Z">
+      <class name="job.application.Jobapplication">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:job.application.Jobapplication@5bc79255]" name="setUp" is-config="true" duration-ms="2127" started-at="2019-08-21T16:00:47Z" finished-at="2019-08-21T16:00:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToHomePage()[pri:0, instance:job.application.Jobapplication@5bc79255]" name="navigateToHomePage" is-config="true" duration-ms="3004" started-at="2019-08-21T16:00:49Z" finished-at="2019-08-21T16:00:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method status="PASS" signature="submitFull()[pri:0, instance:job.application.Jobapplication@5bc79255]" name="submitFull" duration-ms="1323" started-at="2019-08-21T16:00:52Z" finished-at="2019-08-21T16:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFull -->
+      </class> <!-- job.application.Jobapplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

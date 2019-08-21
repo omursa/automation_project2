@@ -18,7 +18,7 @@ public class Batch8 {
 		String Book1= faker.book().title();
 		
 		System.out.println(Book);
-		System.out.println(faker.country().capital());
+	
 		
 		
 		
